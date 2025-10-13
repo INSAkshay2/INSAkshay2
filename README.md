@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A Full-Stack Developer | Tech Enthusiast | Aspiring Entrepreneur 🚀</h3>
+<h3 align="center">A Full-Stack Developer | Maths Enthusiasts | Believer 🚀</h3>
 
 ---
 
