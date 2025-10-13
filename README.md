@@ -6,8 +6,8 @@
 ## 🚀 About Me
 
 - 🧠 Currently exploring: **Next.js**, **Web3**, and **Agentic AI**
-- 🧑‍💻 Most used stack: **React**, **MERN + Tailwind**
-- 🗣️ Passionate about: **Web Development**, **Entrepreneurship**, and **Side Projects**
+- 🧑‍💻 Most used stack: **React**, **MERN + Tailwind**,**Next.js**
+- 🗣️ Passionate about: **Web Development**, **Maths**, and **AI**
 - 📫 Email me at: **sharma.akshay2782629@gmail.com**
 - ⚡ Fun Fact: I’m always thinking of my next big idea 💡
 
