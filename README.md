@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">A Full-Stack Developer | Tech Enthusiast | Aspiring Entrepreneur 🚀</h3>
+-<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">A Full-Stack Developer | Open-Source Contributor | Aspiring Entrepreneur | GSOC'26 Aspirant 🚀</h3>
 
 ---
 
@@ -7,9 +7,8 @@
 
 - 🧠 Currently exploring: **Next.js**, **Web3**, and **Agentic AI**
 - 🧑‍💻 Most used stack: **React**, **MERN + Tailwind**
-- 🗣️ Passionate about: **Web Development**, **Entrepreneurship**, and **Side Projects**
+- 🗣️ Passionate about: **Web Development**, **Entrepreneurship**,**Open Source**, and **Side Projects**
 - 📫 Email me at: **sharma.akshay2782629@gmail.com**
-- ⚡ Fun Fact: I’m always thinking of my next big idea 💡
 
 ---
 
